@@ -1,8 +1,8 @@
-存储库名称
+家庭助理 websocket
 
-# 存储库名称
+# 家庭助理 - Websocket
 
-基于“ABC”<https://www.abc.com/>
+基于“Home Assistant 的 JavaScript websocket 客户端”，位于<https://github.com/home-assistant/home-assistant-js-websocket>
 
 ## 100 - 简介
 
