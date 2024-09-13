@@ -2,7 +2,7 @@
 
 # مساعد المنزل - Websocket
 
-Based on " JavaScript websocket client for Home Assistant" at <https://github.com/home-assistant/home-assistant-js-websocket>
+استنادًا إلى "عميل JavaScript websocket لـ Home Assistant" على<https://github.com/home-assistant/home-assistant-js-websocket>
 
 ## 100- مقدمة
 
