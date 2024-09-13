@@ -1,8 +1,8 @@
-اسم المستودع
+مساعد المنزل-websocket
 
-# اسم المستودع
+# مساعد المنزل - Websocket
 
-استنادا إلى "ABC" في<https://www.abc.com/>
+استنادًا إلى "عميل JavaScript websocket لـ Home Assistant" على<https://github.com/home-assistant/home-assistant-js-websocket>
 
 ## 100- مقدمة
 
