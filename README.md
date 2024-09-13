@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+home-assistant-websocket
+# Home Assistant - Websocket
 
-Based on "ABC" at https://www.abc.com/
+Based on " JavaScript websocket client for Home Assistant" at https://github.com/home-assistant/home-assistant-js-websocket
 
 ## 100 - Introduction
 
