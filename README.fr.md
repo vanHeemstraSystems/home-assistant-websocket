@@ -1,8 +1,8 @@
-nom du référentiel
+assistant à domicile-websocket
 
-# Nom du référentiel
+# Assistant à domicile - Websocket
 
-Basé sur "ABC" à<https://www.abc.com/>
+Based on " JavaScript websocket client for Home Assistant" at <https://github.com/home-assistant/home-assistant-js-websocket>
 
 ## 100 - Introduction
 
