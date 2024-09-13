@@ -2,7 +2,7 @@ assistant à domicile-websocket
 
 # Assistant à domicile - Websocket
 
-Based on " JavaScript websocket client for Home Assistant" at <https://github.com/home-assistant/home-assistant-js-websocket>
+Basé sur le « client Websocket JavaScript pour Home Assistant » sur<https://github.com/home-assistant/home-assistant-js-websocket>
 
 ## 100 - Introduction
 
@@ -18,4 +18,4 @@ Voir[README.md](./300/README.md)
 
 ## 400 - Conclusion
 
-Voir[README.md](./400/README.md)
+See [README.md](./400/README.md)
