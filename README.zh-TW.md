@@ -1,14 +1,14 @@
-儲存庫名稱
+家庭助理 websocket
 
-# 儲存庫名稱
+# 家庭助理 - Websocket
 
-基於“ABC”<https://www.abc.com/>
+基於“Home Assistant 的 JavaScript websocket 客戶端”，位於<https://github.com/home-assistant/home-assistant-js-websocket>
 
 ## 100 - 簡介
 
-See [README.md](./100/README.md)
+看[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - 要求
 
 看[README.md](./200/README.md)
 
