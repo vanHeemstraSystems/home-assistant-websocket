@@ -1,12 +1,12 @@
-भंडार-नाम
+home-assistant-websocket
 
-# भंडार का नाम
+# गृह सहायक - वेबसोकेट
 
-"एबीसी" पर आधारित<https://www.abc.com/>
+"होम असिस्टेंट के लिए जावास्क्रिप्ट वेबसॉकेट क्लाइंट" पर आधारित<https://github.com/home-assistant/home-assistant-js-websocket>
 
 ## 100 - परिचय
 
-See [README.md](./100/README.md)
+देखना[README.md](./100/README.md)
 
 ## 200 - आवश्यकताएँ
 
